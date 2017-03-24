@@ -22,7 +22,7 @@ public class HomePage extends base.AltYapi {
 	public WebElement element;
 	
 	@FindBy(id="loginForm:username")
-	public WebElement username;
+	public WebElement usernames;
 	
 	
 	@FindBy(id="loginForm:content")
